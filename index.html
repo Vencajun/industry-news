@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>산업 뉴스</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F1F3F6; --surface:#FFFFFF; --ink:#1C2733; --muted:#667283; --line:#D3DAE3;
+  --accent:#1B8F6C; --mark:#F2CF3D; --soft:#E3EFEA;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){ --bg:#11161E; --surface:#18202B; --ink:#E3E8EF; --muted:#8C97A7; --line:#2A3544; --accent:#4CC39C; --mark:#E0BE32; --soft:#1C2B28; }
+}
+:root[data-theme="dark"]{ --bg:#11161E; --surface:#18202B; --ink:#E3E8EF; --muted:#8C97A7; --line:#2A3544; --accent:#4CC39C; --mark:#E0BE32; --soft:#1C2B28; }
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0; background:var(--bg); color:var(--ink); font-family:"IBM Plex Sans KR",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif; font-size:16px; line-height:1.7; word-break:keep-all}
+button{font:inherit; color:inherit}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+.wrap{max-width:860px; margin:0 auto; padding:40px 20px 80px}
+.top{display:flex; justify-content:space-between; gap:12px; font-size:.9rem; color:var(--muted); margin-bottom:36px}
+h1{font-size:clamp(1.9rem,5.5vw,2.8rem); line-height:1.2; letter-spacing:-.02em; margin:0 0 10px}
+.lead{color:var(--muted); margin:0 0 28px; max-width:34em}
+.brief{background:var(--surface); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:4px; padding:14px 18px}
+.brief h2{font-size:.9rem; color:var(--muted); font-weight:500; margin:0 0 4px}
+.brief ul{margin:0; padding-left:1.1em}
+.brief li{margin:2px 0}
+.days{display:flex; gap:6px; overflow-x:auto; margin:32px 0 12px; padding-bottom:4px}
+.day{flex:0 0 auto; border:1px solid var(--line); background:transparent; border-radius:4px; padding:4px 12px; cursor:pointer; font-size:.88rem; font-variant-numeric:tabular-nums}
+.day[aria-pressed="true"]{background:var(--ink); color:var(--bg); border-color:var(--ink)}
+.day small{color:inherit; opacity:.7; margin-left:4px}
+.tags{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:18px}
+.tag{border:1px solid var(--line); background:transparent; border-radius:999px; padding:1px 10px; font-size:.82rem; cursor:pointer}
+.tag[aria-pressed="true"]{border-color:var(--ink); box-shadow:inset 0 0 0 1px var(--ink)}
+.list{list-style:none; margin:0; padding:0}
+.item{background:var(--surface); border:1px solid var(--line); border-radius:4px; padding:14px 16px; margin-bottom:10px}
+.item.i3{border-left:4px solid var(--accent)}
+.meta{font-size:.82rem; color:var(--muted); display:flex; flex-wrap:wrap; gap:4px 10px; align-items:center}
+.meta .t{background:var(--soft); color:var(--ink); border-radius:3px; padding:0 7px}
+.item h3{font-size:1.06rem; margin:4px 0 6px; line-height:1.45}
+.item h3 a{text-decoration:none}
+.item h3 a:hover{text-decoration:underline}
+.item p{margin:0}
+.why{margin-top:6px !important; font-size:.93rem; color:var(--muted)}
+.why b{color:var(--ink); font-weight:500}
+.rel{margin-top:8px; font-size:.85rem; color:var(--muted)}
+.rel a{color:var(--muted)}
+.state{color:var(--muted); padding:30px 0}
+footer{margin-top:72px; border-top:1px solid var(--line); padding-top:16px; font-size:.84rem; color:var(--muted)}
+footer p{margin:0 0 8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top"><span id="brand">산업 뉴스</span><span id="updated"></span></div>
+  <main id="app"><p class="state">뉴스를 불러오는 중입니다.</p></main>
+  <footer>
+    <p>매일 아침 공개된 뉴스 검색 결과에서 기사를 자동으로 모읍니다. 여러 언론사가 함께 다룬 소식일수록 위에 보입니다. 요약이 있는 경우 AI가 제목과 짧은 발췌만 보고 새로 쓴 것이라 틀릴 수 있으니, 자세한 내용은 원문에서 확인하세요.</p>
+    <p>기사의 저작권은 각 언론사에 있습니다. 이 페이지는 투자 판단을 권유하지 않습니다.</p>
+  </footer>
+</div>
+<script>
+const app = document.getElementById("app");
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const WD = ["일","월","화","수","목","금","토"];
+const dayLabel = d => { const t = new Date(d + "T12:00:00+09:00"); return `${+d.slice(5,7)}월 ${+d.slice(8)}일 ${WD[t.getUTCDay()]}`; };
+const timeLabel = iso => new Date(iso).toLocaleString("ko-KR", { timeZone: "Asia/Seoul", month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" });
+const safeUrl = u => /^https?:\/\//i.test(u) ? u : "#";
+const state = { data: null, cfg: {}, day: null, tag: null };
+
+function render() {
+  const { data, cfg } = state;
+  if (!data.days.length) {
+    app.innerHTML = `<h1>${esc(cfg.title || "산업 뉴스")}</h1><p class="lead">${esc(cfg.description || "")}</p>
+      <p class="state">아직 모인 뉴스가 없습니다. 첫 자동 실행이 끝나면 이곳에 최근 7일 치 소식이 쌓입니다.</p>`;
+    return;
+  }
+  const day = data.days.find(d => d.date === state.day) || data.days[0];
+  const tags = [...new Set(day.items.flatMap(i => i.tags || []))];
+  const items = day.items.filter(i => !state.tag || (i.tags || []).includes(state.tag));
+  app.innerHTML = `
+    <h1>${esc(cfg.title || "산업 뉴스")}</h1>
+    <p class="lead">${esc(cfg.description || "")}</p>
+    ${day.brief?.length ? `<section class="brief" aria-labelledby="h-brief"><h2 id="h-brief">${dayLabel(day.date)}의 흐름</h2><ul>${day.brief.map(b => `<li>${esc(b)}</li>`).join("")}</ul></section>` : ""}
+    <div class="days" role="group" aria-label="날짜 선택">${data.days.map(d => `<button class="day" data-day="${d.date}" aria-pressed="${d.date === day.date}">${dayLabel(d.date)}<small>${d.items.length}건</small></button>`).join("")}</div>
+    ${tags.length > 1 ? `<div class="tags" role="group" aria-label="분류">${["", ...tags].map(t => `<button class="tag" data-tag="${esc(t)}" aria-pressed="${(state.tag || "") === t}">${t ? esc(t) : "전체"}</button>`).join("")}</div>` : ""}
+    <ul class="list">${items.map(i => `
+      <li class="item i${i.importance}">
+        <div class="meta">${(i.tags || []).map(t => `<span class="t">${esc(t)}</span>`).join("")}<span>${esc(i.source)}</span><span>${timeLabel(i.published)}</span></div>
+        <h3><a href="${esc(safeUrl(i.url))}" target="_blank" rel="noopener noreferrer">${esc(i.title)}</a></h3>
+        ${i.summary ? `<p>${esc(i.summary)}</p>` : ""}
+        ${i.why ? `<p class="why"><b>왜 중요한가</b> ${esc(i.why)}</p>` : ""}
+        ${i.related?.length ? `<div class="rel">같은 소식을 다룬 곳: ${i.related.map(r => `<a href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener noreferrer">${esc(r.source)}</a>`).join(", ")}</div>` : ""}
+      </li>`).join("") || `<li class="state">이 분류의 소식이 없습니다. 전체를 눌러 보세요.</li>`}</ul>`;
+  app.querySelectorAll("[data-day]").forEach(b => b.onclick = () => { state.day = b.dataset.day; state.tag = null; render(); });
+  app.querySelectorAll("[data-tag]").forEach(b => b.onclick = () => { state.tag = b.dataset.tag || null; render(); });
+}
+(async () => {
+  try {
+    const [cfg, data] = await Promise.all([
+      fetch("config.json", { cache: "no-store" }).then(r => r.json()).catch(() => ({})),
+      fetch("news.json", { cache: "no-store" }).then(r => { if (!r.ok) throw new Error(); return r.json(); })
+    ]);
+    state.cfg = cfg; state.data = data;
+    document.title = cfg.title || "산업 뉴스";
+    document.getElementById("brand").textContent = cfg.title || "산업 뉴스";
+    if (data.updated) document.getElementById("updated").textContent = `업데이트 ${timeLabel(data.updated)}`;
+    render();
+  } catch {
+    app.innerHTML = `<p class="state">뉴스 데이터를 불러오지 못했습니다. news.json 파일이 있는지, 페이지를 웹 서버로 열었는지 확인하세요.</p>`;
+  }
+})();
+</script>
+</body>
+</html>

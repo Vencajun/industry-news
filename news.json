@@ -1,6 +1,558 @@
 {
-  "updated": "2026-11-20T02:44:34.560Z",
+  "updated": "2026-11-21T02:54:45.022Z",
   "days": [
+    {
+      "date": "2026-11-21",
+      "brief": [],
+      "items": [
+        {
+          "title": "대중 무역흑자 433억달러…반도체 빼면 415억달러 적자",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTjdTSGhPbzN5YUdHQVFiS3Jua1hncnU3cmQtVVR2OW5WdmI5RUttUkdoUEdtZkhRT1ZZSjA1VzhlWlNZbTNaa3JyNHdsVUI1dUZhV3E2QUh2QQ?oc=5",
+          "source": "브릿지경제",
+          "published": "2026-11-21T02:03:00.000Z",
+          "related": [
+            {
+              "title": "대중 무역흑자 433억 달러…반도체 빼면 적자 확대",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cHZ2QVgtWGljeUQ4QXN6TXJ2MGVNaFRZdUMyaE40eTF0SVNEbGdrckd3UDlXTG9BaDBXZXRNNkg3UGl6M3pKRkZ2SXF1ZzFaMGRyWENZNlYwaUNzRHpieDhWRHlZc1pZ?oc=5",
+              "source": "www.ebn.co.kr"
+            },
+            {
+              "title": "4년 만에 대중 무역흑자, 반도체 빼면 적자 확대",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IdGJTS2tyWHJaNXlSX2kzNWRpX3VvS3RWb3dhUGJadlZ5ajYxdkViMGFoVzFvNFFyTDk1VHRlbVd3Yl9YOUQwUk9MSzE1R19QMW9ieUxVNG94dWZzaUFLRmVCamJWTGZYSjZ3Q085dEFyZUJfekhxSlRTWQ?oc=5",
+              "source": "시사매거진"
+            },
+            {
+              "title": "대중 무역흑자 433억달러의 착시…반도체 빼면 415억달러 적자",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yakhxaV9RYWwwQTlZQWZnQWlaWUxHRWY3eGpjeUJmRF9pQW5NYWdvTHdrUmRIOWhNR0VwcFN5bERRMXlJUWJuWTN3Tl9LcVBjckFGelNUOG81aVBlanFUV0FueUF5cjgzWGpzdXFTSmvSAXRBVV95cUxNWFhiWWFycDdlSk5naWU3LVQ1UUtPaWlOWThicDNJT2FyU0JaZXhXUkwwX0cxVklwWlRtUDR3Z3VRdTNVREpiWVF4aWMwUzJBMjFqd2gxMk9TN2wxMC1rVzliMG8yOHM1QkFDdVNzMGVHMXZ3Ng?oc=5",
+              "source": "산경투데이"
+            },
+            {
+              "title": "4년 만의 대중 흑자, 반도체 빼면 적자 415억달러",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQzBfS1Jua1d6Yk5oM01zVko2WVpFVkFVSGFjV3RTaHhSd29oS0c0cE1vYVZrTENWMng4T2ZBLVNzVVNTS0xxZHhteE4tbjY5cXV4NjNLX2ZTeFgzTnV6OFJ4U1B6LU1nOTVZWGN2RQ?oc=5",
+              "source": "진일보 | 전남일보"
+            }
+          ],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 3
+        },
+        {
+          "title": "4년 만에 대중국 무역수지 흑자의 역설...반도체 빼면 적자폭 확대",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtRXNMT0NqUzNkbFllb0dqTDZnRGttM180cXlpXzY2YTkyTG9sRGZRQmpIOXlZVnpmSXE3SFJEajdvNmZGcGRNOVpVVzRuZk9BTGdjQ3ZVRS14OHhWLTRaQzVXQklIRXdDNTVFdTc4MnZiZw?oc=5",
+          "source": "한겨레",
+          "published": "2026-11-21T02:02:00.000Z",
+          "related": [
+            {
+              "title": "대중 무역수지 4년 만 흑자…반도체 빼면 적자 확대",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qdDJranYwRU10R25HZm5XMWFsSVNzbllXVjBDMTdOVmI4VnZZbm50QU92VEhmNThPZTRHM0VkY1lidzgzMXp1X1BheTF1bFhwaEl3Ql8tWnJyTDNQRkNhZHFjXy0?oc=5",
+              "source": "서울경제TV"
+            },
+            {
+              "title": "대중 무역수지 4년 만에 흑자…반도체 빼면 적자 확대",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZjF2dmxTb3JBa0JEbVlOYTgwZm5yVW02cWZ3MzFva1EzdWVpUUQtcS1vNzZZSzhOT1RMM0ctNWhxMTdCX29INmsyNzlFVTJ2cFY0OUJJcmVOalNodmNqWF9QVExZNTBhcWlSajRGNGUtNDhGNlV3U201Z3FLTEpnY0lOZkNjZw?oc=5",
+              "source": "글로벌이코노믹"
+            }
+          ],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 3
+        },
+        {
+          "title": "4년 만의 대중 무역흑자에도 '경고'...반도체 빼면 '적자'",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qUXdTSkNVXzRWUTNrNTFaNndYNVlBT1NzTFpkaUNaNWNXWVA0NEJ3bjEyUGZKdndFT0pSeXdHWU8zT2lta2xPNWtzeEVWTHVsM1hPNmFRRkd5QQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-11-21T00:22:23.000Z",
+          "related": [
+            {
+              "title": "4년 만에 대중 무역흑자라더니…반도체 빼면 415억 달러 ‘적자’",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSclZIeFJ1dl9VU0Y4Sm9HYWc0WENudlNzYlRRT1ZuX1lSaWwwQjVGamowQWJzd0JsQ1JXS3U0eHJkOUdsaDVRSy1vZk52bERlb1HSAVNBVV95cUxPT1dxc0QxVE01a3NvTXY3TUpnamZmNTcxOEgyY29LZXp1dmFJRE1WblVzaXNGQ2hqRnNVQUxZdUI4RjZmZkNGbVY0emhUbUh5THdKUQ?oc=5",
+              "source": "서울경제"
+            },
+            {
+              "title": "대중 무역수지 4년 만에 '흑자'…반도체 빼면 415억 '적자'",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2cVVTTHFaR1NLWFFCbGFEcFhyck9wa0xtWkxCNkZVX3EzMmNTdGxBNnNsUGRmX3F1X0NoZU94WEVqenNjVURpeEZZZ25wT3J3VlVobDZnZjcwWnRPdGh1cGxmSnNBOGE2TzM4?oc=5",
+              "source": "BBS불교방송"
+            },
+            {
+              "title": "대중 무역수지 4년 만에 433억 달러 흑자냈지만 반도체 빼면 적자",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ga1l1a19LcWtOSW9yUjF0bzdSVlpIVjd5cjBnSVlCcjRxaVhmWW02NUFZVUVMTzFtU2xOd2lZYjY4Rmh2OHdXQlNKYWlYb3pnTFh6R3I3c1diWDZTUFBCcTk3MmZlcWJzN0dN0gFvQVVfeXFMTUpEald5UjNZN3h1UnZnaEFIWkdoODdLd25KeTZWU2JsangwNlp0cnBaVzdEZmJMQVpGeGhLbUxGaUs0MlEwT1lOTFdRRnJqcTZrZnVXX1JNWTdzU0Jxc0g1Z056RS0tWHRsR0dxUTlz?oc=5",
+              "source": "글로벌E"
+            }
+          ],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 3
+        },
+        {
+          "title": "김정관 산업장관 \"반도체 혼자 수출 1조달러 못 이뤄…성과 체감 높일 것\"",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFNVd0xDSHVyMDI0MDRKQkxNWXJDYm8zWEVYajRaZDVRZkozdVVyNHExd3NhVlJGWVlaNmlEVnpXaTFua0x6VmUzQlRGYWVFRUhLajdpSmFQRzFPbzN3cXEzX082N2I1WEhzeEhmNi14MTRsOVJwbFUyY25iX0ViZlhLOUw5QQ?oc=5",
+          "source": "글로벌이코노믹",
+          "published": "2026-11-21T02:19:25.000Z",
+          "related": [
+            {
+              "title": "김정관 \"반도체 혼자 1조 달러 못 이뤄...성과 체감되게 할 것\"",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VOHZNWWdaWWpfWkxZUkxSSGtKSmVjREQyN0Y0U0ZVSzNEby02QkZ6bGY5dlppRjUxMXBCaFZEV2NPejVyUXI3Mmx5TXpXNFhwdEhMSEl3Sm1ITmhYZXc?oc=5",
+              "source": "YTN"
+            }
+          ],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 2
+        },
+        {
+          "title": "무디스 \"내년에도 AI 반도체 호황\"…삼성·하이닉스 실적 호조 지속",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2d3Rid3lJczJ4Uk5FcTR4VUlJWlR5SjNaT1p6bWU2MHRfWjVUN2VSU3VaajBMTjhqVTBaRG1oYUh0STNxbnUwNlpCQmtOeXB4UVdzWWNVcExlRXh2eVF2cnVvU3BGWkxMTWhzZlBKYnd1VmpaaVdFYlk1VdIBf0FVX3lxTE44VnM1VUJCSkdvTkEzNU5EMFcwd3VLVVBnUkhqb1RRQUFBYjdWQUhRUTdiRGxPZkVxTUNsTmJNYlloSDVZTm54dFdmd2xFQlpDTGZKcXZiSmdoczYxODg0SFlWQjc3YVdfamxpdGpEUWI5QXJTamRuS3FyTzV3VXM?oc=5",
+          "source": "데일리스포츠한국",
+          "published": "2026-11-20T20:31:27.000Z",
+          "related": [
+            {
+              "title": "무디스 \"삼성·SK하이닉스, 내년에도 AI 반도체 호황 지속\"",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0SFZuazBEaXZyS1dFejNVaEo3WGt1NTFTSWxhMHVSOXJ3WXFMb295SVlYQUYwVjRVcVN4SUVIYjdGM0xNNDZqamdGdDZGZE84R0Q5VE1GTHBZa0RyS280MnFnZFFOZWZlZTd3eWlob2FYZw?oc=5",
+              "source": "중앙이코노미뉴스"
+            }
+          ],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 2
+        },
+        {
+          "title": "인텔, 18A-P 첫 외부 고객 확보…파운드리 재건 신호탄?",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhU3p1Z1VtOEpLLWpKZ0JNZGhMN1FHMS0tZjYyblVpTEd3WTVEUUJNT0xDQjFQQnVjM2NIUFRFMVZweWdaN2c4VGw4VQ?oc=5",
+          "source": "아이뉴스24",
+          "published": "2026-11-20T10:24:17.000Z",
+          "related": [
+            {
+              "title": "인텔(INTC), 5년 공들인 18A 첫 외부 고객 확보…주가 반토막 뒤 반전 카드",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04WFRCUjZJYmtYZThOTGtGQnVCaXNSd2dDd3MxLVh5MV9SRzN2YnN4YzZhVm52UmhoY2Y2WmRqcGJ0bHFSTE1Uck1R?oc=5",
+              "source": "코인리더스"
+            }
+          ],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "파운드리"
+          ],
+          "importance": 2
+        },
+        {
+          "title": "미국 수출 통제 강화에 삼성·TSMC, 중국 고객사 출하 중단…스마트폰 칩까지 허가 대상 확대",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DMmF0YzlxNFh2dU5NUlowYnUxRjh6THVraTFibnJ6MW9SeFZmVlg2ZERqTHZXZV80VE9wOUVHY0lCNktGTzZBbHpod3RQRUE?oc=5",
+          "source": "https://www.didimkorea.net/",
+          "published": "2026-11-20T09:34:31.000Z",
+          "related": [
+            {
+              "title": "중국 AI칩 생산까지 옥죄는 미국…삼성·TSMC 출하 중단",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HdWZld0t5c3FrWV9sczM1cmJmeFIzR1E3NUxXVENodUJrRHRUMHY3LUl0ZjVvMnhKcWRqUkJ0TkdqVlBReG8tNXFpWTFsbWpjbE92bGxNTXczSVpta0stbQ?oc=5",
+              "source": "뉴스토마토"
+            }
+          ],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "파운드리"
+          ],
+          "importance": 2
+        },
+        {
+          "title": "삼성 메모리·모바일 새 사령탑…황상준·최원준 전면에",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbXVKQVVRZ09QazFFaEhFM3RLb1BNUmRNdzBzcnQ1anRLdUlZdGtBcU1FTXhjWkZPRTVFQTd3S1ZJUnRSOXFxdnJmU08ybFpqd2fSAVNBVV95cUxPUkVhWV9ua2RfWE9KUWFIekdiSHNrbWhTajZPRXFXNlBXZjhNWjVhWmpnUzdTeGNKRmlub2FnMnEzYmJCUWZXdWNhVFhfNmFnT3pHOA?oc=5",
+          "source": "서울경제",
+          "published": "2026-11-20T08:41:32.000Z",
+          "related": [
+            {
+              "title": "삼성전자, 반도체·모바일 새 사령탑 세워 책임경영 강화…메모리 황상준· MX 최원준 사장 전면 배치",
+              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzdl96RTBmQVFjelk0aGM3UGdpQjVnaFdaeHZNVjhJR0NOSHRGRTR1R3BMVERiYUVGN0NxcGhoYnh4Sy03UFBNT0JtVQ?oc=5",
+              "source": "재경일보"
+            }
+          ],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "HBM"
+          ],
+          "importance": 2
+        },
+        {
+          "title": "\"금요일에 2조 샀는데\" … '검은 금요일' 버틴 개미, 美반도체 폭락에 '블랙 먼데이' 공포감",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUOGdna3dQR1c4dUFQMFRMM3oyeENwQnJTd0lkUktQc2JsV3puWkhGZGl2TzROTVhaaGI5TjBmVUU2WkFPY0ZGczY5bUJQRTdMSVRwSkxseW5uNDlKSGlnejNLaHZCZGl0QklyV0lEZEVaZDRHREQxRnZFTdIBgAFBVV95cUxQZW9XZTRwVjFvTFhLSDlPZnNQRzBScWdZUlZBRHRJcEdmY1BtQThyb2JzaVJxT3paXzR5bG9MR0Zza2E3dzBYbjVYNU5hcXVXQ3ktZUMxYV9wckU2YVRYWDlNT2lwYUptNmpBeWx5NFNvdmt0MHdfb3pQczhFLUhQNA?oc=5",
+          "source": "뉴데일리 경제",
+          "published": "2026-11-21T02:27:00.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "반도체가 이끈 대중 무역 흑자···자동차·이차전지는 적자 확대",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02Zjk2T0JhR0JydDlyTC1BWFlCTjUtUWlOMWZMLUxGWTNNQ25YSXVwTjV1R1lnN290SkRzMlhVdEduMEpMbjZhcmN0OTdWNFdma2FzUjhtTmxKbXJpQ2FzX1E4YnJOYUlwMWc?oc=5",
+          "source": "뉴스웨이",
+          "published": "2026-11-21T02:25:30.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "\"반도체 호황 타 산업 파급효과 제한적…취업 유발 10억당 2.4명\"",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ja3Q2ZGFlcXRYTjJOLXFzWThZNUtiRTBsY3oxLS14eG00cFFUVEhZZWswVTdJVkRwYlBydUFlTTRTdFlvaTY5WXZLQ0VQOWFBZ3lwNGZLdTRvOThGNDBkQg?oc=5",
+          "source": "아시아경제",
+          "published": "2026-11-21T02:15:45.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "화순군의회, 7천514억 원 내년 예산 심사…반도체 대응 전략 점검",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xaDJGNl9GNlJHbTcyRWh1WTV2dVp4b2p2N2ZSWHVDUmtlNG5RTjlPN2RhZERMZ0swN1VIeEgtODFJZVVsQUVKM25pQXZGMVhTOXliMm84dE9XSUZIUDF1bg?oc=5",
+          "source": "아시아경제",
+          "published": "2026-11-21T02:12:32.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "반도체 '나홀로 질주'…창업·골목상권엔 한기만",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00TGcwdlN3b2dDcTJXcTBaNEY0VTdaMVk5YnRRT3NFSGFTUDVtdDR4UlBWaWlIOXF6cVBMUTNWa3dFYTZ4UXR3RFR6UEtERGRzT3dha1NjM0M0VDNKZTY4M1lOUGxxTlNR?oc=5",
+          "source": "동행일보",
+          "published": "2026-11-21T02:07:00.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "삼성전자, 메모리·MX사업부장 교체…황상준·최원준 선임",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zbGNHd2xRVmlwYXNveng3dnd3eEdJRkhic1VZM0c0OUc0b09VUmhyN0pLUHFhXzFEaG50S3cyalc5VzhSM3NRY0w2S2kzeTVDNWfSAVNBVV95cUxQbS1xVDR3X045WnlMWUtxVDMxckhSSHRLcUhYZjZ6ZUZ5aDR2MDY1SWZDa0tIc2thYzBnQTVOdGlvZzNtaG5oZVZHOWtmcGFpWkdTYw?oc=5",
+          "source": "서울경제",
+          "published": "2026-11-21T01:36:02.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "HBM"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "美 반도체 수출규제 전면 확대…삼성, 中 AI칩 출하 중단",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MUXltb1k5cmstTDBiZmF4T1RtYS1GNUlRQnFCN0RCdU5SM2Vwck1aaVdIclZqUzhtQU0xOXNvc0Z4SkhfYTU2M0ZRWlJWWlE2MXfSAVNBVV95cUxPb0FvTi1TQlROa3dWanhTMEJyYnFHNWNJU1U2MERQakVfOG5Ma291SVo1WnMtVFZWTFczMVFEQWpYanJCY1FkQ0ZEczc0MWRheGZvbw?oc=5",
+          "source": "서울경제",
+          "published": "2026-11-21T01:35:40.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "\"반도체 초활황에도 고용파급 제한적…10억원당 2.4명 취업\"",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGJGX0FvRlQydG00amQ4OVNsbEs1QWM2WUw2M0I0aEppUlgzbnB4VGttSWkxb1ZTbm1NdEFZZTdmUEgtN3VJRlhtLWdPajI3M3pFNzFwQ3dkRUZIQlNacHN0T1ZpazBuOERGZzNIVEFIUTE3MnBWSFVFdVRjV21EeUxlb0Z6UFRXbVdLR3h4b3JfN19GalI3bA?oc=5",
+          "source": "국제신문",
+          "published": "2026-11-21T01:35:00.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "트럼프 \"中엔 구형 칩만 판매\"…美, 반도체 수출 '상한선' 지키고 우회로 차단",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwLXFVVUw2T2t2bUczT05XeldsNkxqS25DYW5OZG1HMG5aM0pDa2ZJaDBXcHVXRlNlbXZiQWtfTUpEUFdDVlh5Y2RRVDY1dUM1NjRwSFctMmxzZlhtdkFQRWl6ZW5zSzA?oc=5",
+          "source": "청년일보",
+          "published": "2026-11-21T01:31:23.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "반도체 취업유발 10억원당 2.4명…“경제 전반 파급효과 제한적”",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92UHQ0TjUxMHd3am53ZWJVX2hWdlA0TlI3ODJhbm1oOUt2eTVEMFdoTGpNczRpRmZNelNFNWhEQVd0YTNqWWFPNDIxdjQ0NmRFaktNMWxR?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-11-21T01:29:03.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "美재무장관 “적절한 ’반도체 원격접근 제한’ 조치 시행될 것“",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83VDF2UnRERFl5bXZFNHFGUFlvNlpaOXpUVGMzOHN5RUZrNlBHNGNIOHhpdXFQQkJkSmlFb1RJeGozeDhBTjMxdElRZVdiVEdsRUdabUxyMzJHcjd6dDExaGRvbTJqNlU?oc=5",
+          "source": "연합뉴스TV",
+          "published": "2026-11-21T01:27:00.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "'수출 1조달러' 한국, 반도체 끌고 이 산업이 밀었다 [뉴스Q]",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VdHVkelZzN0hNT2tDSkVidEEwMnFzUEtpaHZ0bk9fTkh2cUhSeVoybldWSDVEbGp1Y3NDLUkxZWw0Q0gxaEVKcEFWd2F2bHVvbVVTa2NfdnlXTld5enZ0djVXekpsZldrQWc?oc=5",
+          "source": "스포츠Q",
+          "published": "2026-11-21T01:24:09.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "반도체 값으로 만든 무역수지…한국금융연구원, \"가격 하락하면 흑자 급감\"",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0djlobDRxaFBsTlI3Rm1yT18wMVVyQUZJMDFUb19WWHE4dXlDdWhwRVNBRDEzeUFJazNhTzRPejYwVU1VZGZLQ0JfRnN3dVM3c1VCTXFRVUNVbXk0aWdlV2xnUUpRaUE?oc=5",
+          "source": "청년일보",
+          "published": "2026-11-21T01:18:19.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "TSMC 웨이퍼 가격 내년 10~20% 인상, 일부 고객은 선결제",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40WXk2a1FqM1dJSzVEQ1FnT210SEh2TlBObzhDdS04cnU5a0xiem9vR1ptM3lMdU96T1c2Q1lIcWNFaUs1dmpQSmtNbXI5aE9jS1BzMm1CTWgtNzR1aGE0WjF1b2V5Snp2bktVQjlHRmE?oc=5",
+          "source": "디지털포커스",
+          "published": "2026-11-21T01:15:04.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "파운드리"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "금융硏 \"반도체 부가가치 '코로나 호황' 10배인데...고용유발 미미\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYZ1hlZHZnRDZsV0ItUlI5bzBtNjdHRjdaWEJiVzJkazZoTWxvdEYtbnRNVXNVT2xnRklqMXQ4WkZDLVVSZUo3clhFcGEwMUU4UGMxcU5DdjBSTFJyX3RZVEJHdTZOUG9iOEkyVTRVTVhKUjdj?oc=5",
+          "source": "파이낸셜포스트",
+          "published": "2026-11-21T01:15:00.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "반도체 무게 둔 삼성, 가전·TV 힘 실은 LG…내년 사업 전략 윤곽",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvV2Q0VGJqd3hsWlZKUjJlRm05ZEU3QlpLUk5RVFZYSWcwN1F1SWZnYUdnbnpuemoxQVd2TDFBWFNxM0YzVzdxbmlIU3VxZU80aUJpV0toV25kUjUyTmRKZjJmZkMxd3V5Vmc?oc=5",
+          "source": "월요신문",
+          "published": "2026-11-21T01:12:32.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "이천시, 반도체 미래기술학교 54명 수료…경마공원 유치 활동 확대",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JWnlzRV96QlJjT09kSTJQMTFiLTU2Vk1mSzBMdmNuRFFoekRKak55RlI1UUg2TFB5OWNyd3NfRTJQc0w2ZmVkRUFmanFDR2MweVBJOUdPeFZKc19XMGtLc1FTRmJEZGFmOUtqNVdycFZDQQ?oc=5",
+          "source": "웹이코노미",
+          "published": "2026-11-21T01:05:00.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "\"반도체 꺾이면 동탄도 흔들\"…전문가가 짚은 경기 남부 집값의 위험 변수",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xTnUyamh6REpSbTBpc2dFVVVlR2ZWMDFYVGRXOVlHVTY2MFhqb3FBeUZvaXdDczNHUWxRaVZ2aHB1V1VqNW9DcTRjcVVJZG1WSm1fTzFBU3BVcm1YUHJXc9IBeEFVX3lxTE1FUHFObndoeWozS1hfWjVPZE1zUlFENGpreTNkMTR5RzhCWUJVMnI4OWZYQXcweHNDUWl3X2JieWVzMnY1eGZNUHhwbFBORHJnOXI2M3F0ek94eG52SzdSSmpObV9fVnVlaU5CbVBqand2VUk1c2pUZg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-11-21T01:01:00.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "반도체 흑자에 가려진 '대중국 수출 착시'…자동차·이차전지 적자 급증",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYQllhVVNKaDU1TERFX0h0d0RVSHl6eVJwc3dscjJkSzYySVV6VHRBbXJ4SWFRTnNaUmhpeFhJUU9KRldCeHhQNEw3OUUwY05vMzZGNHZjSVR4aW9IVm5sREd0eHJoZTdZRF9RWTRkaDdwTE5B?oc=5",
+          "source": "파이낸셜포스트",
+          "published": "2026-11-21T00:52:54.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "이화여자대학교, 2026 캠퍼스 특허 유니버시아드 대통령상 수상…반도체 특허분석 역량 입증",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uM1NzWUpxM19nYTJncVZuZTNVdUExdm1adl92czNWb25QejhncUZFWG04RjYwNHAwZG5Cc3dfZ1IzWTZpVjMzbHAwMGFwVVViZEY5YUZtNVVrM3kwamFkV2paSkhRVXpWT2ZUYXhNbU4?oc=5",
+          "source": "한국강사신문",
+          "published": "2026-11-21T00:42:00.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "반도체 호황에도 내수 파급은 제한적…“시차 두고 커질 수도”",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DUjlxQ2tFeDAtTE01MC1RMk9wWWkzOE5qU1MzYTBxZ2VpUDMyUVhOTUxucUJmYWJ2VkdDYzd0NXY2NlRUY3BpZzBlUE1XUkQyVndmSncwcTkwQdIBX0FVX3lxTFBJV1NyZUFTbkdFbjg5TEV0dlIzTlJqZXg3SnFxMnBtVU8ybG9rM2k4S0UtQ0ZvTTl0cVczenFKdVpOZm9lNEZ4aWdLelJ5Z0p0blV1ek5PMlFnVHRBWmdn?oc=5",
+          "source": "경향신문",
+          "published": "2026-11-21T00:33:00.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaWlZNNFprYkh5STBkNkNfcDNzV1RuMGNfNmhDWVZnZFFGX21EWnJPeDdEMGJCUzQwWElPZzlROHlHa1FtY0pzc3pZWXpObkpnU3c?oc=5",
+          "source": "매일경제",
+          "published": "2026-11-21T00:24:56.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "AI 시대의 반도체 호황, 한국 경제에 미치는 진짜 영향은?",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Mbzl2MHVreWYwdV92Y3JCSE1yYVVKX3ZXNjM5Q2dFREM4eGJibEUtcWxlTWxDSEM4bXFPUFpFRlp2UWNjeVZtQmpQSmpNVUc3SVh3ZjV6NmhmSWpoZW1XTU9XUUJwd0dy?oc=5",
+          "source": "공감신문",
+          "published": "2026-11-21T00:22:20.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "한국의 대중 무역흑자, 반도체 편중 속 비반도체 적자 확대",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDVDaFJrZGZqampOd3NFcmYxemFVNW1jWU5XT293MTVRNlFQUGxWV0p5YXVYSWYwV2VCTnUwVjc0R2RNQXhrSDB2bHhOMUhKMk45WFJ4VDljY0Ytc0w5WDRtTWVPT1FUdHJzbWZTb2NPVk5RN1l3cjlGandhdFJlVzhObE1aZjdQeFVHMlpsaUpuVlRncVhwTVFoTXR1NEJkWGc?oc=5",
+          "source": "Traders Union",
+          "published": "2026-11-21T00:19:31.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "트럼프, 중국 반도체 수출 정책 고수…구형 칩만 허용하며 협상 지속",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53TlRuT2lCZG4zVlBkdWp6UV9XMVBJRnpLWm14OG9OZHlPdzBiX0VqSGF3SVFuZnFMZW0tUkIxLUJzYXBaUE1pQzczNlNoay1lTXZhWVBGUUdRY01Zc3ZyeHJlTGpwSkRp?oc=5",
+          "source": "공감신문",
+          "published": "2026-11-21T00:13:48.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "반도체 '주 52시간 예외' 놓고 與 내부서도 두 목소리… 노사정 재논의",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uMjVSU2tyVllXN2JRTHpXZWZNbkJUWkoybmNYSDQwaUs5QU0wTWhqYkRNOG8yVjFnNFRUeVJta01xWkk5bWFMWDJvcGdOQUI5aHZtVGhjQ0dVQnU3MWkzR1dsVUlFMU00WjNn0gFvQVVfeXFMUDRNM2NPVVFCY0RVallCakQwbGlub3UxQmkyMWZvTkpmY3VnTkNUOXY5UnNoaEV0YU91VV95SzBsd1JWeWpPYlY0cUJPaWhNdl9MeUt4UjhRRnRfcWIxenVPcGF5cEQxb3MyLXlRTTFJ?oc=5",
+          "source": "더퍼블릭",
+          "published": "2026-11-21T00:09:20.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "[ETF워치]한한령 해빙 기대에 K팝 날고…반도체 레버리지 추락",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtbTlFVGEyR1E3a2FLZy1OWFI2aFVMX0NnM1hXd3pxbW5DeXdGSWg0cUVqdmdNdngzMldtVHNFcmZ4S0twQjdLTmdTeWpuUmVNUkJpbHl5SVlmVWhQeFV6TTRKU0pYTDkwNEE?oc=5",
+          "source": "비즈워치",
+          "published": "2026-11-21T00:00:02.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        },
+        {
+          "title": "\"반도체 호황에도 파급 미미…10억원당 취업유발 2.4명\"",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82bW1ySjE1Z0MxajE5VnktOFJnSDQtMzJJaDltUE92cHlINWMyeVZfSk5na0t2OHBGaVl2LUMzTUJkYkVvSndEM0N6UnM1bmh3cnlkUGpQTkU2NlhjWVZLatIBYEFVX3lxTE82bW1ySjE1Z0MxajE5VnktOFJnSDQtMzJJaDltUE92cHlINWMyeVZfSk5na0t2OHBGaVl2LUMzTUJkYkVvSndEM0N6UnM1bmh3cnlkUGpQTkU2NlhjWVZLag?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-11-21T00:00:00.000Z",
+          "related": [],
+          "summary": "",
+          "why": "",
+          "tags": [
+            "반도체"
+          ],
+          "importance": 1
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "brief": [],
@@ -3337,632 +3889,6 @@
           "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5naV9aS0c3NzMxOHJFaFNhc1FrbnlJVjcxaFdYbExjUGlCU0tOZHlGYmY5WVE3UnRWaXhiTElFTUxQYXdF?oc=5",
           "source": "성남일보",
           "published": "2026-11-13T01:20:00.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 1
-        }
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "brief": [],
-      "items": [
-        {
-          "title": "[속보] 이재용 회장 \"삼성 온양캠퍼스, AI반도체 심장 최첨단 HBM 거점 변모할 것\"",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40V21kVl80RUQ2aEFHY1lwMzNpSUlzY2lhVXJ1NElXQ2dpcVk0NzBjeE1IbUxNT2gwM3o1NmNmTk5CbGw0N2VoNHVJbFp4aHBPcWxqc0Z6dzRnVk55UGNkbHM0NXUzRldsQmhqVGFtZw?oc=5",
-          "source": "대전일보",
-          "published": "2026-11-12T02:30:00.000Z",
-          "related": [
-            {
-              "title": "이재용 \"삼성 온양캠퍼스, AI반도체 심장 최첨단 HBM 거점 변모\"",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pd0VPTHU4d1RkeE85aExjVzAzZmxNLVpnMUVHMFB0UlNfVUlPVjNYeFlpb0dHVWhxZEN1Y1MzYjZJdzMtZDVRaGFVQjBtYWRJUUw5Sm9vZ1RnQQ?oc=5",
-              "source": "파이낸셜뉴스"
-            },
-            {
-              "title": "이재용 회장 \"삼성 온양캠퍼스, 최첨단 HBM 거점으로 변모\" - 머니투데이",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02dklCaGlBNlR4TVoyUXBWMWRhQVpmUV82WmJrLWJSXzBrYlpnTm1oelRncU9UckJsQkVjTE5ObnhYczBIUDhxcUtjMjVyRXhOSGpUYmNrcDRVM3VhWm9YVl9MX2oxV1FQMnF3SDEydjRMSTFfRWMwTmlB0gF_QVVfeXFMT0dMVnNZMUVqWEdrR0lyZVlsLVBTbXFIa2Mxay0xQm14TnhtbEtFYjJoUU5YZlphNEZDYkF6QWk0VVRwaUpfaVBFR2hYTkZFTjhvUXBNd3NIa2FHVkp1eTUzbjFtSDNvTk51X1VUcTB6WXk2cUhIMTVXN2xWV3hYMA?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "이재용 회장 \"삼성전자 온양캠퍼스, 최첨단 HBM 거점으로 변모\"",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uRk9sb1N5WW0zUkdiSXZET2JMR3ljc2VUekZ4SmFZaFp5bkI2MndRMHp5TmkyZ1lHcS1XTUVEdm9iZ3g1cHFqSTdFU0p2WWF5aFhaZVpxenMxMEZBZXQyTGY3cXU?oc=5",
-              "source": "뉴스1"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "HBM"
-          ],
-          "importance": 3
-        },
-        {
-          "title": "DB하이텍, 3분기 영업익 900억원…\"공장 가동률100%\"",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQmFXWWctUWJib1dCYVFTY21zdGVjMGZxampfUEJ4T0V5dnFSbXM4ZUZFcGdYTU9Nc2lnVERuajRjZ3lqdUZuRUFyNkpmRnpTWWFBODlTUHR2ZWdFdDQ3MmhSRllDUlVOUlFwb2d6d0pEa2t6V0J0WmZlQnlFTkhTRg?oc=5",
-          "source": "이데일리",
-          "published": "2026-11-12T02:24:17.000Z",
-          "related": [
-            {
-              "title": "DB하이텍, 전력반도체로 공장 '풀가동'…3분기 영업익 900억원",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DcWVfRUpTb1ZNbExJTVZCeS1Ub3Buemk4dldoQU54NndRYXFpX2pJSnBWTzEtTm5iSkZGQ2xjQWN0cTU5ZDVUaldqanpsdXRJandGRGVReHo3VDFN?oc=5",
-              "source": "뉴스핌"
-            },
-            {
-              "title": "DB하이텍, 3분기 영업익 900억원… 전력반도체 호조에 가동률 100%",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92ZVE2VklSZWNUQkxXeTNaTHlpaDlIeHcxcV9wUUhlNUFUUjF6RENjY0haSmxVZ2FrMTYzR2xYUlgtT1N5Ty1nQ0xHMXg1MTExU2dEemNtYVk4SklucGJoTDdB?oc=5",
-              "source": "디지털데일리"
-            },
-            {
-              "title": "DB하이텍, 3분기 영업익 900억원…전년比 6.58% 증가",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93OWpVeWVXdnlBdVNpdXoxYWdjSmdvM0lnYVhPVGhEWlJ5Tnl3bjR5ekFPakJsX3hXcTBSR18xaFJlUDhnZV9oUzNUaXotdXc5OHhaclVB?oc=5",
-              "source": "지디넷코리아"
-            },
-            {
-              "title": "DB하이텍, 3분기 영업익 900억원…전년比 7%↑",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKTkFBbUllbDdiRjFXQk1yaVRrLWdUOVNFTkhmWlRwZ09EWUsxZHZuaTczdnJrSGhBcHBkamVHZUlTbUFLM3FzMV94VTJWd0Rjc2RYQ0pfSHRER2JaanJ1UHFaaERaMFR2?oc=5",
-              "source": "www.ebn.co.kr"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "파운드리"
-          ],
-          "importance": 3
-        },
-        {
-          "title": "LH, '핵심 정책 사업지' 광명시흥·용인 반도체 산단에 2조 추가 투입...후속 공정 '속도감' 있게 추진",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1NUp2TW5JTE55SHphVG1ab3FmblpaWHBDWVpoSENZQ1dVVmtQUlUyYUw0ZXBzUURtRFZGVnBSYjVJZW9YM1czWU9WRHNyVlY2U0xaN21ORUwzX0J5RG5F?oc=5",
-          "source": "스마트투데이",
-          "published": "2026-11-12T02:09:00.000Z",
-          "related": [
-            {
-              "title": "LH, 광명시흥·용인 반도체 산단에 2조원 추가 투입",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1waDd6NUk3ek1IRm56bUY1OHRGb3otc3Bod19LM1Z1TVZJbUJGbkd6ZlFlQmMzYTJqbk44VDBUSVJWcFB1RFJtbzFiR1VtZlJESU56R1JCVEZHQ3V5WEl1R3FydU9HTDc1aTZna1BXSEt2Zw?oc=5",
-              "source": "인더스트리뉴스"
-            },
-            {
-              "title": "LH, 광명시흥·용인 반도체 산단에 2조원 추가 투입…보상 속도",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CbnhtVWVSdktUZGk0MzJPekFHSFlPdE1wanlQRWg0S25BMW1VdzBLRUFKVGVQMGNfV0piWE1VZ0EydHhlRld1WVFvZnQzQ3RTOGFjR2p2aGxBWTN6TU1wNQ?oc=5",
-              "source": "메트로신문"
-            },
-            {
-              "title": "LH, 광명시흥·용인 반도체 사업에 2조원 추가 투입…보상 속도",
-              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDA3cFFTdERkZ1VmeEdycWs2Z1JGdk5tRmZhWmlfVGdUM0VrUGRmSVNPRXd6Q0F3amxfMXlxS2wwYk9FMVYyT2oyZTFhM0J1NXptclJmRDJKc1VSYzhZdFV0NGpSUy0zWkIzMFp0UDZ6bzlsbmIxN0p3eWtuTTM1TFpYLTRYQ2Ewd1E?oc=5",
-              "source": "글로벌이코노믹"
-            },
-            {
-              "title": "LH, 광명시흥·용인 반도체 산단 속도전…올해 2조원 추가 투입",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DbktUNHFvMHBXZFlYd2RvdEE0ZkpRVUx2alMtSTZ4RHo4YUg5ZU5La0dOU2RaYTlYU3R1Vm1tMUlWeWpSS0RpZlR3MmtWY01fc0trX2pWcjBSeS1vUTNaamhSTFY2dUE?oc=5",
-              "source": "M이코노미뉴스"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 3
-        },
-        {
-          "title": "아이에스시, 송도에 반도체 테스트 소켓 제조·연구시설 증설",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PN2RwQ0xKWDBzaW8ydnhZYmQ5QTdEeVBXTlFsQ2JRdTc4cUhSZ3JRN3JBcFJOdzNYUTl2dzZxS3FBcXhwUDNzalM1czgyVnJ3djBxLU8yR1RnTUstNmE0ZlhjZUNhQQ?oc=5",
-          "source": "한국미디어뉴스",
-          "published": "2026-11-12T02:06:24.000Z",
-          "related": [
-            {
-              "title": "아이에스시, 인천 송도에 반도체 테스트 소켓 제조·연구시설 증설...2028년 가동 목표",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1blZlY0lVT1pKLWp6NHp6SkxySnVwdlFJcVRfdE5CNVIyNm5yOGpSZkgwdVAzQWJoMldCcE1ETFBhSmkyUnRtVU9wSExwejRGTG1KdnVjeXVUSURmREpkUHJ3U0pyTlgzRnJVVERR?oc=5",
-              "source": "중부일보"
-            },
-            {
-              "title": "아이에스시, 송도에 반도체 테스트 소켓 제조·연구시설 증설…2028년 운영",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHV0tUd1hvOWwwdzhRVnQ4TndkUXVTRlVkay1sSUJhV2tXcjEzSzhfblZ5Q3BoM0tMZFVDN1ktSWd4bEZGdVZPYnM1NUI2XzhRWVR3QkRrTVhMdTg?oc=5",
-              "source": "경기일보"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 3
-        },
-        {
-          "title": "LH, 광명시흥·용인반도체에 총 2조원 추가 투입…‘사업 속도전’돌입",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04Z0V4RC1vXzZHQzAwVXVKRFBGMC1tUXVaeXdBY0dGS0lhQnhHTkdpQW5zb2lzN2RKTWd3am41ZUpZaG9kTzZYS090UGdOWks1U0ZwaVkwNERaVFdoLWJUZ0oxNmk?oc=5",
-          "source": "매일일보",
-          "published": "2026-11-12T01:46:34.000Z",
-          "related": [
-            {
-              "title": "LH, 광명시흥·용인반도체에 2조원 추가 투입…보상·조성공사 속도",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYU2FaY0JScFdRQ0VPVFI0Y2p6TFhaMWhnUldZWnp4THRfa2MwUHpVdmoxN1ltUlNKeUNIR2lBOW1RUUZmeWswdTlYcTJqLU12MGxYZ01PcE9NRTVY?oc=5",
-              "source": "뉴스핌"
-            },
-            {
-              "title": "LH, 광명시흥·용인반도체에 2조원 추가 투입…사업 속도전 나선다",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIVEFvcGs0eGVyVzNuX0dqdVBWdVRCeTVsb1RLQ2tIbUF1TW1JOVdrUFZRRlZQVVZJWDdReUptcERqbkZ5ckVaRWtYSjc4N3liYlpSQXJNVDc2WThVX3hVQzVFRE9HdEEyZXlUdDhGRkY?oc=5",
-              "source": "연합인포맥스"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 3
-        },
-        {
-          "title": "미래컴퍼니, 삼성전자와 48억 규모 반도체 장비 계약",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4SUhkTHo0UGZRVjdhR3lPbXBFVDVtQlJEYVdtZ0xjeUE3Q3FkaVJYalBxUll1LUsyR1Rqc1N2amxmYjZPMWQyLXFWMkNrOUpGU253OS1GT2ZxUjZ2cWpBd9IBeEFVX3lxTE5HZjZPQzdjcW9wcmdGeXgxLWU4OG1xRG5scUx3MmQ2ekZ6RW53VWFpVXRGc2x2aTdqT2tuczhyWHBYTjMyTTNSUkhObElxam8wRmVQS0JCaWlOaU11YlRSVzZ4N18yeWxlcy16LXJmMkhQb2YwbW5wTg?oc=5",
-          "source": "뉴시스",
-          "published": "2026-11-12T02:23:30.000Z",
-          "related": [
-            {
-              "title": "미래컴퍼니, 삼성전자와 48억원 규모 반도체 제조 장비 공급계약 체결",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KOV9udFZ5cnNjQkl2cnBhck8tSXI2SzFHN1lxUHBoNVNpeHpoVU8xaG53Q3IxN3hQMnJVWktsSm5xX1RWVW8wY0VidGg4Zy1GWTRNV0FicjNkWEQyVlF3dHYxbXRGX21FSV9HaDgxTDFaa1FfXzNNcTlSMA?oc=5",
-              "source": "디지털투데이"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체 장비"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "엔비디아, 젠슨 황 해임 추진…AI 반도체 시장 충격(종합)",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pSWtYTnNQYTJkZkNPZVdOTmFWQUYwOVhnaEswdHk0TjJrMFFkYXlveDc4Q1ZOVnZ5TTZJRjF6VFdFVzlOX1VNbWF6NUdocHVidU9yUVJwWkViZmVqV3Z4eg?oc=5",
-          "source": "아시아경제",
-          "published": "2026-11-12T02:23:17.000Z",
-          "related": [
-            {
-              "title": "엔비디아, 젠슨 황 해임 준비까지…'AI 반도체' 시장 판도 달라지나",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11MXJZcHpFMXJ0a3FBNUlMaThBZzY2SjFtZEFtS1pkSHdjLS14WGhyUW5Pa2QyWi16WlViX3hZaXZhWTBtbkVNWWQwUXhlc3JZUEpiVlFHUlVvd19GczRGVdIBeEFVX3lxTE9Lc3BEaXNSRzM5R3hyTXNzWFRNcnlnNzdLcFRhNTN4bDJobHFrc3JmN3J0MEpRMkQ2b0NpWmJFQjI3UmtBeXRtejZRUjB2cms5MXZLM2NXVE1QTmpqVVl5cGlseVJlRXNQSUZoNWVTUXBBSGRtUktuMg?oc=5",
-              "source": "뉴시스"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "9월까지 나라살림 적자 8년 만에 '최소'…반도체 호황에 법인세 급증",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JVzdkU2JOQ3RieDhoM2FKZmZFZUZPVWdfR01TQmRrUXJFTU43aWVSMWZrbW1jM0xXQms1S0lzQ2k5UVZ4SHp1b2RKT0JvQQ?oc=5",
-          "source": "전자신문",
-          "published": "2026-11-12T02:21:16.000Z",
-          "related": [
-            {
-              "title": "반도체 호황에 1~9월 나라살림 적자 32조원, 8년 만에 '최소'",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95cnFWZDVFdDBKVHU2Zl9sa09FNjY4Z3oxQUlOUWtMR05VY2U3aEk5QURsTmYtRVgzYTN2SEU5b09BQkltTlo3eTB6R0RzMl91TnEyZUN3akdXZ0lrbWhoRQ?oc=5",
-              "source": "아시아경제"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "정부, 국산 AI반도체 10종 개발 추진…2030년까지 기술 확보 By EBN",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hdTlhYnlmOFMzQURNWjN6emVWX0xyeWRJMnZ2WTBhc3VYME5jcldDQWtjRW90UXpPMVRsd0FoQ3E2bXd2TXgxdVp0Z3hZdVd4STkwbjhzbVVlUkZNdzNNb3gzaTlkUVBTX2VZa3RvN1g?oc=5",
-          "source": "Investing.com 한국어",
-          "published": "2026-11-12T02:11:00.000Z",
-          "related": [
-            {
-              "title": "'K-온디바이스 AI반도체'에 산·학·연 힘 모은다···2030년까지 10종 개발",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByaHpDcERLT29tZGtudEpRbFBGcnNLWXpPRlAtOXBMRmVNc3VNdkFwX3E0cVZ1ZWVaUU40eXozNGpWNURWWTBfZ2hZMjN1N2QxMjFtTmZic083Y0xUTFRoYmxaclM0QXF2R2c?oc=5",
-              "source": "서울파이낸스"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "K-온디바이스 AI반도체 속도…2030년까지 AI칩 등 10종 개발",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92NjExOFZtLUoyVDRxRXBqTzhuNW1iZ3pTNzJqNFJaNVdQcXJEQllDZUZ3QUFKYzBlSTZEY3lYRFZZczlfSVdLZkJ1SXJUcW9vcHZTZU9wNTFOQlXSAWBBVV95cUxNVVZEVTdtdFVrcU92RFBHaVFwYTNMNmJRcUh2bE1wSW9FMy01OHRpLVJ6ZHFiTlQ3eGJlZFNxNXJEczRqaXFGZTBBMlYwSjY5Um90SlRfSTIzVTBaYjVJTWg?oc=5",
-          "source": "연합뉴스",
-          "published": "2026-11-12T02:00:01.000Z",
-          "related": [
-            {
-              "title": "정부, 8000억 규모 'K-온디바이스 AI칩' 로드맵 확정⋯2030년까지 10종 개발",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oUmgxbmpXNjRraTAxekh1YzRScnFEODk3R3NOb0RQLVM0M1VGdWlmZHFuYkhNUnJsWXhJby1WQUhWQlBubk1iNW5sdVlWVmhkbms4Sw?oc=5",
-              "source": "이투데이"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "DB하이텍, 3분기 전력반도체 호황에 영업이익 900억원…가동률 100%",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UUlZGTjVwb205WnZGbjFCLUhmb3lEbmRLcEhZbkVBWkNiRThUSWNFM2RhOWlCOGpoRmQwcU1nY09wd201aGVfOEVHNUo3RTRLMUw2amdR?oc=5",
-          "source": "헤럴드경제",
-          "published": "2026-11-12T01:44:28.000Z",
-          "related": [
-            {
-              "title": "DB하이텍 3분기 영업이익 900억원…\"가동률 사실상 100% 유지\"(종합)",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DWUhfVHgwU1pMRHhkcUlhZmJBOXVpM3NNNlRDem5EUTBudE1PMC1qRTBONVFGbWhHZnVacEx2QWhNRWM2OEg4SzFSbm5UZWZkaWNteTlvRkNkY2w2UHNiWNIBYEFVX3lxTE9DWUhfVHgwU1pMRHhkcUlhZmJBOXVpM3NNNlRDem5EUTBudE1PMC1qRTBONVFGbWhHZnVacEx2QWhNRWM2OEg4SzFSbm5UZWZkaWNteTlvRkNkY2w2UHNiWA?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "파운드리"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "美 의회, 젠슨 황 스캔들 계기로 대중국 반도체 규제 3법 강화 추진",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VM0NoSzF5NHc0N0VwMGwzYWd3RjZlYldWdDNfOExlUEcxU2ZYTkdUWFBLd2FNRkxsWkJwTHlfVGhUdktjNktvdEtOXzBkRW9DOS1DSHJRVGJUQdIBWEFVX3lxTE8yRDFqQ3k5NGM4QzZFbHc2aW5GRVhjbzlmZllBN1BhU2JTaVQwSlpOb0QtMk55bUhmWlJqZ0JrQnRDMTdhTjRpOFlHcWZhdUNVWWh1TmNMSGE?oc=5",
-          "source": "아주경제",
-          "published": "2026-11-12T01:36:40.000Z",
-          "related": [
-            {
-              "title": "젠슨 황 불륜 스캔들에 미 의회, 대중 반도체 규제 강화 추진···한국 기업에도 영향 줄까",
-              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlhLZHhhWFpCRkV1M21TSkR0U1luc3l6TlNIcmxXNkkwa0tNd1B5dnlzWEtfZ1Rac2xUaHBNdFhEY0M0aWlKMzJCb2wyT2JPbkF1dEJVYUFfUk93WUN2TXBFblROSG0yQnZSNVdFU21aNnBLT1JjWUp0R0NJdmFNdElhTE9mbkVTZGY5VERVdExBWTgtaVVsR29RRWVrTnVJSVQ4dGRMcHNVUdIBX0FVX3lxTFBpS3gtQWRvZl9KdXJzbVAtSjlRRDR3bzlqMXI3bXRRMnlPRndUUUU4RUtReTNWcnhzb0xQeGhocUxLdGh4WThXT21WdVVuSHJHVWFwenB1NG1iWG5VR1hJ?oc=5",
-              "source": "경향신문"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체 장비"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "이재용 “온양, AI 반도체 심장으로”…HBM 공장 첫 삽",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Eck1TZ0pFNXBmZEUwc29fMzJLZldVU2kwMlM4Rm1hVlhETXlHbWxMWm1hVkpJckhvOEVTRktLMGE2Z09kZThMT1VhMHl0Z3NKSnfSAVNBVV95cUxPVDZ2Q3FrUmt2cW5kbW0xQ0NGWTgwM01qOGtHWmloU1Y3MEpuQmVVNGVEcU9QeTAyRFN6TlJnZW41ZVJXUFFKY2Z3WkJRV013RHdNTQ?oc=5",
-          "source": "서울경제",
-          "published": "2026-11-12T01:19:36.000Z",
-          "related": [
-            {
-              "title": "이재용 \"온양, AI 반도체 심장 HBM 거점으로 탈바꿈\"",
-              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2cGd6YllhbGs1WDJGWU9jSlVvcFkzZ1Z3cnhBOUNTWlp6RVAwd1Vwd29YWUFrbzVnZFZzSmk4MER1MDRQLWVhVGFpNU9JbVNISkstN1NhTUJ4M3lF?oc=5",
-              "source": "뉴스핌"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "젠슨 황 해임설 충격…코스피, 반도체 훈풍에도 '주춤'",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03dG9xMlpPaTFYWDRMS2NPa2NiS1F6ZDEzSldMc0xER3U1eDMzTzFfTWNjeXNSNTlrZXNwaXJjenRBc2RreDNyX2MwRWlVbXJkUTVj?oc=5",
-          "source": "경제타임스",
-          "published": "2026-11-12T01:12:02.000Z",
-          "related": [
-            {
-              "title": "美 반도체 훈풍에도 코스피 주춤…젠슨 황 해임설에 증시 출렁",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ga0c4ZTZSRml5UkNTN285OTRsX08xTGx6UlJ6TG1BN1hBaXRhT003blFyVFp4Qm5mcEVHMmZHVjZSRl9sV01hYzVZT2UxNkVHQWZ2d1VOMnBBaXFGTmxQMFg0cnpLN1V2Ykh4T2s4bw?oc=5",
-              "source": "진일보 | 전남일보"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "LH, 광명시흥·용인 반도체에 2조원 추가 투입… 보상 속도 낸다 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvTjY1TXkwX3RKNWxJZHppYVdJcWtidElFYjl1ZXZmc1laMGZxWHdEYmZFNkxJLUtCaWlpUHozSWpFMlU0cTlwZW1KbTRKWkxQbVpXajcxZFBKcWp2eERuZk9YNHVFaDNsYmfSAW9BVV95cUxQR2U0N1pMbTZuVWN5YUl1ZVo2bXJ6UEF3dDEzaDFvallVUWVZZ29NZmtkZFJRdjNtV1Rtc3ZPcEExM09rUDlhNml4Q2JvZVRwWHRhZEFicEdFRkF3UDJaQXk3UlZuOVNCWjR1aDlpZUU?oc=5",
-          "source": "머니투데이",
-          "published": "2026-11-12T00:26:02.000Z",
-          "related": [
-            {
-              "title": "LH, 광명시흥·용인 반도체 산단에 2조원 추가 투입…보상 재원 선제 확보",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vTWI1V2x0aW9XdGhkdFI1ZUd0N21nSFVudTFNREswZ29FVVN6dUl1bUF3RHUxVElGaVZsSDJlS1p1N29naGxRWUN1eXl6b0F1ZURrb1hEclA?oc=5",
-              "source": "더트래커"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "이천시, 반도체 기업 13곳 초청 투자유치 팸투어 진행",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tYm9CUkpnUDlrQ0tOWnF0NWNsYWZMaGoxLW5qcG5iS2M1dUFXckRVZUc2LXFyeU5LWVF5NkNWZDNmWC14cE1BMnpHYWw2RU01dE9TNVNOZUxhT1cwMmtxZXo2WEEwdw?oc=5",
-          "source": "벤처타임즈",
-          "published": "2026-11-12T00:00:00.000Z",
-          "related": [
-            {
-              "title": "이천시, 첨단·반도체 기업 13곳 대상 투자유치 나서",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MNzBUMnVrLXFYcnh2aTh6MHg5WURicnRiOUFpYXNUeW5YS1ZfcVZxbXFDanFJbEJsZHdaRUxuZkNQV0gwcU1Od2JDV29PZGJmaXliVVJSRFgxVGx6czhCMFQ4X0Y?oc=5",
-              "source": "매일일보"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "‘반도체 독주’에 전기전자 5대 기업 수출 3.3배 폭증",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1X0NYWHo5Mm9leEl4WlRuUmhFSWl2cDlLOVBXUTlLb1A1Z0RSSzJseHRiUXl3UVhmeWdvRGtGMkhPdFRPWDF2UGlFbk1HNTYycUJhUEtPMERGU3JEc3lGb2R2blY?oc=5",
-          "source": "서울경제TV",
-          "published": "2026-11-11T23:42:00.000Z",
-          "related": [
-            {
-              "title": "“반도체 덕분” 전기·전자 5대 기업 수출, 1년새 3배 넘게 뛰어",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SUkJySktIa1dYUVljamZob2VuVTAyTkFkQ2pmRVNNa1Zyam5WUVU2TndrdnVvVFpMVUVNRUkzNjh2RmpyV3diU0w0cVBHelRRVkZSMEpxVzFQUdIBX0FVX3lxTFBRV05lU29YQlVZNDViYUJveWVZVzVHM3ljMEhJdDhJd2ExWGhMUnJhUXo2c2E4bEIzSXphcHp6VUVsa3FYdk1raUxtWFdxZUlRRHVIYmhzSjJ5OHpCYzBr?oc=5",
-              "source": "경향신문"
-            }
-          ],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 2
-        },
-        {
-          "title": "李대통령 \"충청권 메가프로젝트에 반도체·바이오 등 23조6000억 추가 투자\"",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmJVeWdKVzJSRFVHNGFVWEIzTFhhYUV6TC10aEVwQ3JIYmNzVXdhdXVraHRKREFIRFl3Z1dsR0Vfdm92TlM3dGZ3MGxKNDdVVVpxdXNBTVZEN05VVU5EZDRNTVUwc2NWLWZ0SHF1b3JJcEVRR3RTRzN4VUpmcFZGbTNBX1hvMk5r?oc=5",
-          "source": "조선일보",
-          "published": "2026-11-12T02:27:00.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "당진환경운동연합, '용인 반도체 산단 반대' 천막 농성 동참",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuc3RTOEtrZDhHOHQzbl81ZWsyM29KN2VuaHl4ajVKQTc5SmdxR2RhNUUxZ29PbFF0TGpGRWVjTmdoTGRIbzNrbEl2M0V5TDdtMkp4NWlVelluNXBveVJSeXE1Z25vNXdSYWxSSk52bnMwOFXSAXZBVV95cUxOZndHdFloQmtNbDdkSFREYWlKUWVyZWNUNGQ4V2F4LXZiRXpUbUtYQnZhY2EzUkFKd0d6cXFRQVkyNU55VWhsVGh1dzlOOGlJdk0xMzN1ZzNIaU5oc2pHLUMwazBJdjVJZ2FBRDF2QjNIeWh0Y0tB?oc=5",
-          "source": "LG헬로비전",
-          "published": "2026-11-12T02:21:39.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "거창군, 광주과기원과 맞손…호남권 반도체 벨트 ‘배후 도시’ 노린다",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91QnlSY0VIQk1pbWNjcXZvZi1xZFBCZ0dTN1k0NFoxQVg2XzFObTNHb0hncmU3QUVLdkVTSnl1azIyeWJsa1JtS3dfWlNDZ205Z21HZmQ4NzBDQQ?oc=5",
-          "source": "경남신문",
-          "published": "2026-11-12T02:17:40.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "인텔 아태 부사장 \"한국, HBM 넘어 소버린 AI·로봇서도 경쟁력\" - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Fd0wxVzNpSXV0cnM1Y0w4MWZhSEo2RUw4RjdGRnBSUGxNSTAwR3k1NkVLVXd3YnhGR2ZwbUtwc29SQnc1bjdrU2R2UUJqay1ObkJ3Snd3ZDFPU1VaeDRfVWVPdU9CU0Z0YzNQVU5SY3YtYXRJ0gF6QVVfeXFMTTA0R0sxVUhFWXB4Vy03VDdJNXk2MmwzcG9jd2JmYU93OVVQRzIwTTRsSkhCTy1GZ0tvTDVOa0w1UnczTElaQXVEdWsyZ1pHUm03bUhEYklJSmNEdFhRdENKMVROaDFHN29nSkhqaFZ0cEotaGNoV2ExcFE?oc=5",
-          "source": "머니투데이",
-          "published": "2026-11-12T02:15:57.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "HBM"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "이재용, 충청권 메가 착공식서 \"최첨단 HBM 거점될 것\"(종합)",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2UC0xbDlDNWxZb002OFhSeGdDaVhDdnRYVk44cUlJTllqRnRTaWxuc3dDNjBwNnF6QmRZLXFmdnQ3V0huWkcwVzY4RjNhNEpnM29aVnNuQ2VJVjIzTEJLOTNOR1pTSDBsZmZmcmZuSF9IZw?oc=5",
-          "source": "KB Think",
-          "published": "2026-11-12T02:14:27.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "HBM"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "경북도, 2027년 예산 14조 8535억 편성…AI·반도체 집중",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pSUlxN09KYTRZMXVxVzRyR01nU180cnVuUmRGYlF0Z0hNa1JqdGVNOFlnTElseVdPZlpoVUlQcHM1bVY2QXRTRG1Ra252cEt2WEdiVDdjQVJCd19yMEEzZGdMQVFqOV9UUmlrclhvYw?oc=5",
-          "source": "산업단지신문",
-          "published": "2026-11-12T02:13:13.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "[Biz 포커스] 전영현 삼성전자 부회장 \"충청권에 144조원 투자…글로벌 첨단 패키징 거점 육성\"",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wa0dBYzd4eEdzVmx5dWxkY0E1TUZvZHc4Z0NYMGtmekpEcC1ieWkyVzNJR1N5eXY0aENHeFdScDZlTFltSVJoUHBXU1hiX2ZPN0ptRF8yLW9MdXVCMnhNN1NieFZ3VnF6TGhHTA?oc=5",
-          "source": "뉴시안",
-          "published": "2026-11-12T02:12:44.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "HBM"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "HBM 착공식서 李대통령, 이재용 모두 웃음 터진 이유는",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2ZjaDZWSDEtaXp0dEhIaE5tRTFNNW9WQjJ5NVdlTUQ2Y2ZYLTlkdmx1eHhDVzcxaUVYczZobXFjWG5EbWUtMzFXVUZWdlVWc19kTk40ZS01cnpwN3c0LWF5S0tWaUZ6R3dQV1c4czd1Ri1HRlo4M0d2STREemY1LTdsTEdaZU1IZ3lDNFJ2MA?oc=5",
-          "source": "조선일보",
-          "published": "2026-11-12T02:11:00.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "HBM"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "유호준 의원, “반도체 산단 조성에 따른 사회적 갈등, 경기도가 방관 말고 도민 목소리 경청해야”",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15cS1MR3FyZkJobGg0b2paX2VnS3g0ZENtQlhWamNLTlpaM1FIVGs5Y0NXQ01VQ1UzdHhlR2hDbjNablROODFIdkVhakFPbW9mMjJEbFA4M1hnUGdWdG55YThHeE9XVVo4NGNmMm13?oc=5",
-          "source": "서프라이즈뉴스",
-          "published": "2026-11-12T02:09:36.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "공정 바꾸고 HBM 품고…삼성, 파운드리 세대교체",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpS253YkdmOWJtQnE0S1hkbjF2cXhhZVVZbm9pNnc0MmxUQ0pyLUR6Zy1pXy1OOUxDQkRqSnY3SllvaXZ4RHM3dWZBNG9QNEtHZEM5VXo4ZzUyZFpTSWRQNXNaS0pkQ01s0gFsQVVfeXFMT3dhTzJnaTk0WEotYjRWMkZMWEJSUjI0QnhJQXpDTktzY0FIb3FFQ0xKVTY0NHhTM0RYeE9oVkFtS1BNNy1aaGdqQmRnTHdZZXc1WDREaFpWcWFMMVliQzRxdHU5OFh3Z2ZaM3hT?oc=5",
-          "source": "블로터",
-          "published": "2026-11-12T02:08:48.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "이재용 \"온양을 AI 반도체 심장으로\"…삼성, 초대형 투자 시동",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XbmowbUJhdFdLWjJsV3JPS1pyd3p3SnU4WlVqdVpCMmhVX29ZMWZyM2oxMFR2VE5sYzdwdVBJNmI2Vml1RzgtV2JxenBCVTFKd05SYjJOeWRzR1FlRXQ3ZWZtdWdSQjZYZE1IZ00tZ2w?oc=5",
-          "source": "코리아데일리",
-          "published": "2026-11-12T02:05:44.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "HBM"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "삼성전자의 오랜 청사진…충청권 HBM 패키징 인프라로 키운다",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EWlNtWWI5eEpFdjFkalliT0xmb2lLRlVxMEFTSEo1UVd4VkpYMDI1ay1ab2JXSWRYclNwbURyMkVGTUlkSHRIUXgyaXJWWDF6dGxBWEJlQTBvU2swWDZ5Sw?oc=5",
-          "source": "아시아경제",
-          "published": "2026-11-12T02:05:42.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "HBM"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "삼성전자, 온양서 '패키징 승부수'…HBM·파운드리 동시 강화",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ODBFUDEzQjNhbXV1WnFFYTVseVdqZndhU29BNGp6UXlBanFMSVpTbjViNjFzZ1Vtb1gzcktOQjI2elV4QmM1cTNFUQ?oc=5",
-          "source": "아이뉴스24",
-          "published": "2026-11-12T02:05:03.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "HBM"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "삼성전자, 아산에 6조원 투입해 HBM 첨단패키징 공장 건설…이재명 대통령 \"전폭 지원\"",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16aXRtZk5HNV91R2lfYmlUeUdzWGNlTzRDTmNKX29WakJZdnF3a3FzeHZZYkdjUnppTWJwcHRjRjBNM09sSUlYdUtkNUY2c0kxNklFY3JyeWJoRGdaUnIwVGpnTnJndkdxY2Y0?oc=5",
-          "source": "뉴스인",
-          "published": "2026-11-12T02:05:00.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "HBM"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "[젠슨황 스캔들] 엔비디아 흔들려도…삼성·SK HBM 전선 '이상 없다'",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xQWpQSV9Gb19WVHZkb1dfc1Z3bEZlcjRTajlnbWFZOWhWUVpEX3NNRzVXZWZJMnlNRHozclFlWTFCcGhmdU9HYTQ5WkJxVnZ2S24tR0NWdFV1VHo0ckpPRE1kUGFNSVh2NHB5dWo3VnpJTUNU?oc=5",
-          "source": "파이낸셜포스트",
-          "published": "2026-11-12T02:03:11.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "HBM"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "성남시 ICT융합협의회, 반도체·AI 신규 과제 2건 도출",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ydFBUR3JrVmJiQXR4Y25SY3UxT0RPLXJBVW9lZG1PMURVbGU5VmNTV0dyb1A0aFpqUHBpUkhnRnl4YVhqN3RDUzdPUlEzTEgtc3EwOHNLOFJlZkQxV253X3hONC0?oc=5",
-          "source": "매일일보",
-          "published": "2026-11-12T02:02:15.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "아이에스티이, 3분기 누적 영업이익 35억원으로 흑자전환… 장비사업부 매출 87% 급증",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14V2x0bHc2aUExYmlwbEVTNzhwZnNnRU8wSjNfdVNCekhHcDhmTWMzZkFaekk2TC1VT1J0N0FMSU9aTkx0Z2RibWNwMTB6c2NWaGdMX0x5OTlJaE5Wc3JYVTF1NjZzSUVYZ3c?oc=5",
-          "source": "파이낸스스코프",
-          "published": "2026-11-12T02:01:00.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체 장비"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "李대통령, 충청권 메가프로젝트 착공식 참석…삼성 반도체 투자 지원",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TR2UtSjlxbHVWYVNUbnhpdkxmY2d4TDFmdXVuYldpZXZJN0ZkUk5FRmxPYWNQUHl3U1EtYmtRYzhnLWQzY1J4bHhZcllrbDI0eDVWVTdmUWhELVVYcU9UcQ?oc=5",
-          "source": "KBC광주방송",
-          "published": "2026-11-12T02:00:48.000Z",
-          "related": [],
-          "summary": "",
-          "why": "",
-          "tags": [
-            "반도체"
-          ],
-          "importance": 1
-        },
-        {
-          "title": "전영현 “충청권, 최첨단 반도체 패키징 메카로”… 온양캠퍼스 5라인 착공",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nOVBLRWFjZkRSZ3EyQjBzaHFRRWdMMVdua1FMcVhDZnJXLTNyUmtHZFhFekI4eU1JQ0tNUGxnSU56YTlMM3lFMEVoUzB6MFUyTXVmYVZ0NThDS0tjUnU2UWxaN1VxdE1ZSHc?oc=5",
-          "source": "천지일보",
-          "published": "2026-11-12T02:00:43.000Z",
           "related": [],
           "summary": "",
           "why": "",
